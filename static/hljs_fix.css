@@ -1,0 +1,7 @@
+/* alter dark colors to light, for use on a dark background. */
+
+pre code {
+  display: block; padding: 0.5em;
+  background: #002b36; color: #92a0a0;
+}
+
